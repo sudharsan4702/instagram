@@ -1,0 +1,107 @@
+{
+    "posts":[
+    {
+      "id": "post1",
+      "user": {
+        "username": "sudha_dev",
+        "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "image": "https://picsum.photos/id/1011/600/600",
+      "caption": "First commit on my new project! 💻🚀 #webdev",
+      "likes": 143,
+      "comments": [
+        {
+          "username": "tech_guru",
+          "text": "Awesome work! 🔥"
+        },
+        {
+          "username": "dev_maya",
+          "text": "Waiting to see it live 😍"
+        }
+      ],
+      "createdAt": "2025-05-11T10:15:00Z"
+    },
+    {
+      "id": "post2",
+      "user": {
+        "username": "foodie_joy",
+        "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      "image": "https://picsum.photos/id/1025/600/600",
+      "caption": "Best pizza in town! 🍕❤️ #foodlover",
+      "likes": 312,
+      "comments": [
+        {
+          "username": "sudha_dev",
+          "text": "Yummm 🔥 Where is this?"
+        }
+      ],
+      "createdAt": "2025-05-10T14:30:00Z"
+    },
+    {
+      "id": "post3",
+      "user": {
+        "username": "traveller_dan",
+        "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "image": "https://picsum.photos/id/1036/600/600",
+      "caption": "Sunset from the hills 🌄 #travelgram",
+      "likes": 412,
+      "comments": [],
+      "createdAt": "2025-05-09T17:45:00Z"
+    }
+  ],
+  "profile":{
+    "username": "traveller_dan",
+    "profilePic": "https://randomuser.me/api/portraits/men/30.jpg"
+  },
+  "suggestions":[
+    {
+        "username": "pac_man",
+        "profilePic": "https://randomuser.me/api/portraits/men/31.jpg"
+      },
+      {
+        "username": "twizzler",
+        "profilePic": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "username": "carolie",
+        "profilePic": "https://randomuser.me/api/portraits/men/33.jpg"
+      },
+      {
+        "username": "boston_bean",
+        "profilePic": "https://randomuser.me/api/portraits/men/34.jpg"
+      },
+      {
+        "username": "zinkler_visionx",
+        "profilePic": "https://randomuser.me/api/portraits/men/35.jpg"
+      }
+  ],
+  "story":[
+    {
+      "id": "post1",
+      "user": {
+        "username": "sudha_dev",
+        "profilePic": "https://randomuser.me/api/portraits/men/1.jpg"
+      },
+      "image": "https://picsum.photos/id/1011/600/600",
+      "createdAt": "2025-05-11T10:15:00Z"
+    },
+    {
+      "id": "post2",
+      "user": {
+        "username": "foodie_joy",
+        "profilePic": "https://randomuser.me/api/portraits/women/2.jpg"
+      },
+      "image": "https://picsum.photos/id/1025/600/600"
+    },
+    {
+      "id": "post3",
+      "user": {
+        "username": "traveller_dan",
+        "profilePic": "https://randomuser.me/api/portraits/men/3.jpg"
+      },
+      "image": "https://picsum.photos/id/1036/600/600"
+    }
+  ]
+}
