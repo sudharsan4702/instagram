@@ -1,0 +1,61 @@
+.w-20{
+  width: 20%;
+  border-right: gray 2px solid;
+}
+
+.w-30{
+  width: 30%;
+}
+
+.w-50{
+  width: 50%;
+}
+
+.logo-text{
+  width: 100px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+.bi:hover{
+  color: #0095f6;
+}
+
+.side-hover div:hover{
+  background-color: #bebebe;
+}
+
+.story{
+  height: 70px;
+  padding: 10px;
+
+}
+
+.dp{
+  height: 30px;
+  margin:5px;
+}
+
+.image{
+  width: 400px;
+}
+
+/* .suggestions h5,p{
+  font-size: 14px;
+} */
+
+.gradient-border{
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: linear-gradient(45deg,#ff00ff,#ff6600,#ffcc00);
+}
+
+.story-dp{
+  width:40px;
+}
+
